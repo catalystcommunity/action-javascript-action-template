@@ -13,7 +13,7 @@ Greet someone and record the time
 <!-- start usage -->
 
 ```yaml
-- uses: swarm-io/action-javascript-action-template@undefined
+- uses: catalystsquad/action-javascript-action-template@undefined
   with:
     # Who to greet
     # Default: World
