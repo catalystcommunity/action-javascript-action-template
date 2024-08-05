@@ -13,7 +13,7 @@ Greet someone and record the time
 <!-- start usage -->
 
 ```yaml
-- uses: catalystsquad/action-javascript-action-template@undefined
+- uses: catalystcommunity/action-javascript-action-template@undefined
   with:
     # Who to greet
     # Default: World
